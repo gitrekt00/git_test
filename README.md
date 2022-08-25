@@ -1,3 +1,4 @@
 # odin
 report for learning web dev
-Hello Odin!
+Hello Odin! Testing out Git!
+
